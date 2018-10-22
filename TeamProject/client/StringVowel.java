@@ -1,3 +1,7 @@
+//Find the number of vowels and consonants in a given string
+//Create a method that takes a string input and
+//prints out the number of vowels and number of consonants
+//in that string input
 package client;
 
 public class StringVowel
