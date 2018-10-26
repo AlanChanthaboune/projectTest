@@ -12,6 +12,7 @@ public class arrayQuestion
 		int foo=2;
 		int i;
 		int j=0;
+		
 		for(i=0;i<array.length;i++)
 		{
 			if (array[i]==foo)
